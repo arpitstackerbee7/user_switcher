@@ -4,7 +4,8 @@ authors = [
     { name = "renish-1111", email = "ponkiyarenish@gmail.com"}
 ]
 description = "Floating quick user-switcher for developers and admins"
-requires-python = ">=3.14"
+#requires-python = ">=3.14"
+requires-python = ">=3.11"
 readme = "README.md"
 dynamic = ["version"]
 dependencies = [
